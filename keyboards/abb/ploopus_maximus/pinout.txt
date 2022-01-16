@@ -1,0 +1,17 @@
+J4
+1   sw3
+2   sw4
+3   sw2
+4   sw5
+5   sw1
+6   ??
+7   switches common
+8   GND
+9   j2 pin 1
+10  unconnected
+11  j2 pin 3
+12  GND
+13  j1 pin 1
+14  GND
+15  j1 pin 3
+16  5V
